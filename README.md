@@ -1,0 +1,3 @@
+A program designed to calculate the optimal specifications for a vegetable garden irrigation system, taking into account weather conditions and stochastic factors. The implementation utilizes the Monte Carlo method.
+The `result` files contain data tables representing 100,000 simulations conducted over a period of 3,271 days, covering 65,000 distinct sets of system parameters.
+This project is currently in progress.
